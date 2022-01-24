@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-21T18:21:29 IST" name="Default suite" finished-at="2022-01-21T18:21:37 IST" duration-ms="7890">
+    <groups>
+    </groups>
+    <test started-at="2022-01-21T18:21:29 IST" name="Default test" finished-at="2022-01-21T18:21:37 IST" duration-ms="7890">
+      <class name="testcases.Assignment8">
+        <test-method signature="test()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:29 IST" name="test" finished-at="2022-01-21T18:21:35 IST" duration-ms="5481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="validateGetListResources()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:35 IST" name="validateGetListResources" finished-at="2022-01-21T18:21:35 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetListResources -->
+        <test-method signature="validateGetSingleResource()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:35 IST" name="validateGetSingleResource" finished-at="2022-01-21T18:21:35 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetSingleResource -->
+        <test-method signature="validateGetSingleResourceNotFound()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:35 IST" name="validateGetSingleResourceNotFound" finished-at="2022-01-21T18:21:35 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetSingleResourceNotFound -->
+        <test-method signature="validateGetSingleUserNotFound()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:35 IST" name="validateGetSingleUserNotFound" finished-at="2022-01-21T18:21:36 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetSingleUserNotFound -->
+        <test-method signature="validatePostLoginUnsuccessful()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:36 IST" name="validatePostLoginUnsuccessful" finished-at="2022-01-21T18:21:36 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostLoginUnsuccessful -->
+        <test-method signature="validatePostRegisterSuccessful()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:36 IST" name="validatePostRegisterSuccessful" finished-at="2022-01-21T18:21:37 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostRegisterSuccessful -->
+        <test-method signature="validatePostRegisterUnsuccessful()[pri:0, instance:testcases.Assignment8@13e39c73]" started-at="2022-01-21T18:21:37 IST" name="validatePostRegisterUnsuccessful" finished-at="2022-01-21T18:21:37 IST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostRegisterUnsuccessful -->
+      </class> <!-- testcases.Assignment8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
